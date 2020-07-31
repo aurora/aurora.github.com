@@ -46,7 +46,6 @@ small {
     margin-top: 20px;
     text-align: right;
 }
-.logos > img {
+.logos img {
     margin: 0 10px;
-    height: 40px;
 }
