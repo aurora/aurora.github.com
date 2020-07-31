@@ -34,3 +34,10 @@ small {
 .inner {
     margin: 20px;
 }
+.aurora {
+    margin-bottom: 10px;
+}
+.logos {
+    margin-top: 20px;
+    text-align: right;
+}
